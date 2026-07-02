@@ -131,4 +131,7 @@ Planned features:
 # License
 
 Private project under active development.
-Stay tuned for the pubblication!
+
+------------------------------------------------------------------------
+
+# Stay tuned for the pubblication!
